@@ -1,2 +1,3 @@
-# fast-analytics-dashboard-vgc9
-Analytics dashboard for modern development workflows
+# Fast Analytics Dashboard Vgc9
+
+A analytics dashboard for modern development workflows.
